@@ -97,7 +97,7 @@ def handle_query():
 
 def main():
     st.set_page_config(page_title="PDF RAG Chat", layout="wide")
-    st.title("PDF RAG Chat with Voice & Text")
+    st.title("Muruga Anna Stobay Voice - POC")
 
     # Sidebar: Upload PDF
     with st.sidebar:
