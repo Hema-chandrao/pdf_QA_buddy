@@ -7,3 +7,4 @@ faster-whisper
 gtts
 audio_recorder_streamlit
 PyMuPDF
+python-dotenv
