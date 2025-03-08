@@ -5,4 +5,5 @@ faiss-cpu
 sentence-transformers
 faster-whisper
 gtts
-fitz
+
+PyMuPDF
