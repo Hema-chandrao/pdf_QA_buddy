@@ -5,5 +5,5 @@ faiss-cpu
 sentence-transformers
 faster-whisper
 gtts
-
+audio_recorder_streamlit
 PyMuPDF
