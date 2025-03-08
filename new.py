@@ -15,8 +15,7 @@ import dotenv
 # Load environment variables from a .env file
 dotenv.load_dotenv()
 
-# Access environment variables
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
